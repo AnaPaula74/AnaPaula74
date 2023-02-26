@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **anapaulamendoncalima74@gmail.com**
 
-- 📄 Know about my experiences(file:///C:/Users/vivia/Downloads/Curr%C3%ADculo%20Ana%20Paula%20Mendon%C3%A7a%20Lima%20.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-paula-mendonca-lima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-paula-mendonca-lima/" height="30" width="40" /></a>
