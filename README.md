@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anapaulamendoncalima74@gmail.com**
 
-- 📄 Know about my experiences **[file:///C:/Users/vivia/Downloads/Curr%C3%ADculo%20Ana%20Paula%20Mendon%C3%A7a%20Lima%20.pdf]**(file:///C:/Users/vivia/Downloads/Curr%C3%ADculo%20Ana%20Paula%20Mendon%C3%A7a%20Lima%20.pdf)
+- 📄 Know about my experiences(file:///C:/Users/vivia/Downloads/Curr%C3%ADculo%20Ana%20Paula%20Mendon%C3%A7a%20Lima%20.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
