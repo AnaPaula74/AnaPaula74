@@ -1,8 +1,11 @@
- ### Hey!👋🏻
+ 
+## Hey!👋🏻
 ## I'm Ana Paula M. Lima 
-### 💻 I'm a software engineering student💻
+### I'm a Software Engineering Student
+![Sem nome (Capa para Facebook)](https://user-images.githubusercontent.com/123080363/221464211-4b11b188-9a3b-401e-b2e7-e290b2f9ed48.gif)
+
 ### About Me:
-<h4><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px>I'm looking for an internship opportunity in the area
+<h4>I'm looking for an internship opportunity in the area
 and I'm interested in the areas of Full Development
 Stack and Product Manager.
 My main characteristics are: I work with a focus on Quality assurance, intelligent decision making,time management and work focused on results.
