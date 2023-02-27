@@ -1,7 +1,13 @@
  ### Hey!👋🏻
 ## I'm Ana Paula M. Lima 
-### 💻 I'm a software engineering student <h2> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px></h2>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px></h2>
+### 💻 I'm a software engineering student💻
+### About Me:
+<h4><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px>I'm looking for an internship opportunity in the area
+and I'm interested in the areas of Full Development
+Stack and Product Manager.
+My main characteristics are: I work with a focus on Quality assurance, intelligent decision making,time management and work focused on results.
+</h4>
+
 
 ##### CONTACT ME:
 
