@@ -21,6 +21,9 @@ My main characteristics are: I work with a focus on Quality assurance, intellige
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><h3>⭐⭐⭐⭐⭐</h3>
+ <div style="display: inline_block"><br/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/HTML5-E34F2?style=for-the-badge&logo=html5&logoColor=white"/><h3>⭐⭐⭐⭐</h3>
+ </div>
 </div>
 
 <div style="display: inline_block"><br/>
