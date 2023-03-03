@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ana Paula Mendonça Lima</h1>
 <h3 align="center">I'm a Software Engineering Student</h3>
 
-![Sem nome (Capa para Facebook)](https://user-images.githubusercontent.com/123080363/221464211-4b11b188-9a3b-401e-b2e7-e290b2f9ed48.gif)]
+![Sem nome (Capa para Facebook)](https://user-images.githubusercontent.com/123080363/221464211-4b11b188-9a3b-401e-b2e7-e290b2f9ed48.gif)
 
 ### About Me:
 <h4>I'm looking for an internship opportunity in the area
@@ -20,7 +20,7 @@ My main characteristics are: I work with a focus on Quality assurance, intellige
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula74&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><h3>⭐⭐⭐⭐⭐</h3>
+<img align="right" alt="css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"<h3>⭐⭐⭐⭐⭐</h3>>
 </div>
 
 <div style="display: inline_block"><br/>
