@@ -1,7 +1,8 @@
  
 <h1 align="center">Hi 👋, I'm Ana Paula Mendonça Lima</h1>
 <h3 align="center">I'm a Software Engineering Student</h3>
-![Sem nome (Capa para Facebook)](https://user-images.githubusercontent.com/123080363/221464211-4b11b188-9a3b-401e-b2e7-e290b2f9ed48.gif)
+
+![Sem nome (Capa para Facebook)](https://user-images.githubusercontent.com/123080363/221464211-4b11b188-9a3b-401e-b2e7-e290b2f9ed48.gif)]
 
 ### About Me:
 <h4>I'm looking for an internship opportunity in the area
