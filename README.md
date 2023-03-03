@@ -19,8 +19,8 @@ My main characteristics are: I work with a focus on Quality assurance, intellige
 ## Tecnologias:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula74&show_icons=true&theme=radical)
 
-<div style="display: inline_block"><br/>
-<img align="right" alt="css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"<h3>⭐⭐⭐⭐⭐</h3>>
+<div style="display: inline><br/>
+<img align="right" alt="css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><h3 align="right">⭐⭐⭐⭐⭐</h3>
 </div>
 
 <div style="display: inline_block"><br/>
